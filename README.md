@@ -1,3 +1,3 @@
 # Calculator
-Simplest web calculator
+Simplest web calculator.
 Use for your self
